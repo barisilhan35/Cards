@@ -20,7 +20,6 @@ public class Deck {
                         new Card(rank,suit);
             }
         }
-
     }
 
     public Card getCard(int suit, int rank) {
